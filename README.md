@@ -1,5 +1,5 @@
-# dawn
-Design of all components of the Dawn program
+# Dawn: Open Source Space
+The Dawn program is a family of passively stabilized rockets designed to be a flexible test platform for future hardware and software for Open Space.
 
     Copyright (c) 2021 Open Space
     
