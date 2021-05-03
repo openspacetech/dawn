@@ -1,7 +1,7 @@
-# Dawn: Open Source Space
+# 🚀 Dawn: Open Source Space
 The Dawn program is a family of passively stabilized rockets designed to be a flexible test platform for future hardware and software for Open Space.
 
-### Dawn HP
+## Dawn HP
 Dawn HP is the high-power design intended for L1 and L2 certification flights
 
     Copyright (c) 2021 Open Space
