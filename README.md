@@ -3,7 +3,7 @@ The Dawn program is a family of passively stabilized rockets designed to be a fl
 
     Copyright (c) 2021 Open Space
     
-    Under MIT for software and CERN OHL for hardware
+    Under MIT for software and CERN OHL v2 for hardware
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
